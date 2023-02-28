@@ -12,7 +12,7 @@ function App() {
 
 
 const handleChange=(e)=>{
- setInput( e.taeget.value);
+ setInput(e.target.value);
 }
 
 const handlePop=()=>{
