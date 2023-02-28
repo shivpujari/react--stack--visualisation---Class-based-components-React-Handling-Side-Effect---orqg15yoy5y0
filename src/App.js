@@ -32,7 +32,7 @@ const  handleTop=()=>{
   if(array.length == 0){
     window.alert('Stack is empty')
   }else{
-    setTop(arr[0])
+    setTop(array[0])
   }
   
 }
